@@ -1,0 +1,4 @@
+﻿Rider 1123123 in car 123, with averange speed 0,732033141391051
+Rider ккк in car ааа, with averange speed 120
+Rider йцсфв in car фсйфс, with averange speed 60
+Rider ккккк in car вввв, with averange speed 60

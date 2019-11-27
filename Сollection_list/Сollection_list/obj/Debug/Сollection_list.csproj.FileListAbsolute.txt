@@ -1,0 +1,6 @@
+H:\Program_traning\Сollection_list\Сollection_list\bin\Debug\Сollection_list.exe.config
+H:\Program_traning\Сollection_list\Сollection_list\bin\Debug\Сollection_list.exe
+H:\Program_traning\Сollection_list\Сollection_list\bin\Debug\Сollection_list.pdb
+H:\Program_traning\Сollection_list\Сollection_list\obj\Debug\Сollection_list.csprojAssemblyReference.cache
+H:\Program_traning\Сollection_list\Сollection_list\obj\Debug\Сollection_list.exe
+H:\Program_traning\Сollection_list\Сollection_list\obj\Debug\Сollection_list.pdb

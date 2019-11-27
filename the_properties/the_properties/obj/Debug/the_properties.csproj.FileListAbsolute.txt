@@ -1,0 +1,6 @@
+H:\Program_traning\the_properties\the_properties\bin\Debug\the_properties.exe.config
+H:\Program_traning\the_properties\the_properties\bin\Debug\the_properties.exe
+H:\Program_traning\the_properties\the_properties\bin\Debug\the_properties.pdb
+H:\Program_traning\the_properties\the_properties\obj\Debug\the_properties.csprojAssemblyReference.cache
+H:\Program_traning\the_properties\the_properties\obj\Debug\the_properties.exe
+H:\Program_traning\the_properties\the_properties\obj\Debug\the_properties.pdb

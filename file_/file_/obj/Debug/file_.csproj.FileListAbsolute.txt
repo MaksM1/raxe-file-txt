@@ -1,0 +1,6 @@
+H:\Program_traning\file_\file_\bin\Debug\file_.exe.config
+H:\Program_traning\file_\file_\bin\Debug\file_.exe
+H:\Program_traning\file_\file_\bin\Debug\file_.pdb
+H:\Program_traning\file_\file_\obj\Debug\file_.csprojAssemblyReference.cache
+H:\Program_traning\file_\file_\obj\Debug\file_.exe
+H:\Program_traning\file_\file_\obj\Debug\file_.pdb

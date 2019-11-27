@@ -1,0 +1,6 @@
+H:\Program_traning\learn_delegat\learn_delegat\bin\Debug\learn_delegat.exe.config
+H:\Program_traning\learn_delegat\learn_delegat\bin\Debug\learn_delegat.exe
+H:\Program_traning\learn_delegat\learn_delegat\bin\Debug\learn_delegat.pdb
+H:\Program_traning\learn_delegat\learn_delegat\obj\Debug\learn_delegat.csprojAssemblyReference.cache
+H:\Program_traning\learn_delegat\learn_delegat\obj\Debug\learn_delegat.exe
+H:\Program_traning\learn_delegat\learn_delegat\obj\Debug\learn_delegat.pdb

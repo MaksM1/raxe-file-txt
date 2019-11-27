@@ -1,0 +1,6 @@
+H:\Program_traning\extion\extion\bin\Debug\extion.exe.config
+H:\Program_traning\extion\extion\bin\Debug\extion.exe
+H:\Program_traning\extion\extion\bin\Debug\extion.pdb
+H:\Program_traning\extion\extion\obj\Debug\extion.csprojAssemblyReference.cache
+H:\Program_traning\extion\extion\obj\Debug\extion.exe
+H:\Program_traning\extion\extion\obj\Debug\extion.pdb
