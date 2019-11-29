@@ -1,0 +1,6 @@
+H:\Program_traning\string traning\string traning\bin\Debug\string traning.exe.config
+H:\Program_traning\string traning\string traning\bin\Debug\string traning.exe
+H:\Program_traning\string traning\string traning\bin\Debug\string traning.pdb
+H:\Program_traning\string traning\string traning\obj\Debug\string traning.csprojAssemblyReference.cache
+H:\Program_traning\string traning\string traning\obj\Debug\string traning.exe
+H:\Program_traning\string traning\string traning\obj\Debug\string traning.pdb
